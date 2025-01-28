@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreekKennyS
 - 👀 I’m interested in Game Development and Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,Java
 
 <!---
 GreekKennyS/GreekKennyS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
